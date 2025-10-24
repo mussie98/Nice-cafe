@@ -28,8 +28,8 @@ Come visit Yammy Restaurant for delicious meals and warm hospitality. We're here
             <div className='footer-content-right'>
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>+251928449810</li>
-                    <li>contact@addiscafe.com</li>
+                    <li>+17036398066</li>
+                    <li>contact@nicecafe.com</li>
                 </ul>
             </div>
         </div>

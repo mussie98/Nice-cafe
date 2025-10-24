@@ -109,7 +109,7 @@
     transform: scale(20);
  }
 
- #hero .play-btn:hover:: before{
+ #hero .play-btn:hover::before{
     content : '';
     position: absolute;
     left: 50%;
