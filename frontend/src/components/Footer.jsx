@@ -34,7 +34,7 @@ Come visit Yammy Restaurant for delicious meals and warm hospitality. We're here
             </div>
         </div>
         <hr />
-        <p className='footer-copyright'> Copyright 2025 &copy; AddisCafe - All rights reserved.</p>
+        <p className='footer-copyright'> Copyright 2025 &copy; NiceCafe - All rights reserved.</p>
     </div>
   )
 }
